@@ -1,0 +1,1 @@
+define(["exports","backbone"],function(t,e){"use strict";e.history.start()});

@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/router.js"],"names":[],"mappings":";;;AAEA,YAFS,OAAO,CAER,KAAK,EAAE,CAAC","file":"scripts/router.js","sourcesContent":["import { history, Router } from \"backbone\";\n\nhistory.start();"],"sourceRoot":"/source/"}

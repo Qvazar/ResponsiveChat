@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/app.js"],"names":[],"mappings":";;;mBAEwB,KAAK;;AAAd,WAAS,KAAK,GAAG,EAE/B","file":"scripts/app.js","sourcesContent":["import * as Backbone from \"backbone\";\n\nexport default function start() {\n\n}"],"sourceRoot":"/source/"}

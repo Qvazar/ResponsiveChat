@@ -1,0 +1,29 @@
+{
+  "name": "responsive-chat",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Qvazar/ResponsiveChat",
+  "authors": [
+    "Qvazar <sebjorg@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "requirejs": "~2.1.20",
+    "backbone": "~1.2.3",
+    "backbone.marionette": "~2.4.3",
+    "jade": "~1.11.0"
+  }
+}
